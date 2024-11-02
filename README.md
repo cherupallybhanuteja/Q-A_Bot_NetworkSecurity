@@ -2,9 +2,13 @@
 
 This repository contains the Q&A Bot for Network Security, an AI-powered chatbot that allows users to ask questions on network security topics. The bot leverages documents stored in PDF format, vector embeddings, and the Groq API to generate responses. The project includes a web-based interface for users to interact with the bot.
 
+---
+
 ## Project Description
 
 The Q&A Bot assists users by providing answers to network security-related questions using natural language processing (NLP) and embeddings. The bot fetches answers based on relevant content from the provided documents (stored in PDF format). The responses also include sources for better context.
+
+---
 
 ## System Architecture
 
@@ -21,12 +25,16 @@ The Q&A Bot assists users by providing answers to network security-related quest
    - Stores vector embeddings for faster retrieval.
    - Performs similarity searches on queries to fetch the most relevant document content.
 
+---
+
 ## Prerequisites
 
 - **Python**: Version 3.7 or higher
 - **Flask**: Web framework for Python
 - **Git**: Version control
 - **Node.js**: Required if using additional JS libraries for enhanced front-end features.
+
+---
 
 ## Requirements
 
@@ -60,6 +68,8 @@ The Q&A Bot assists users by providing answers to network security-related quest
 - **Chroma**: Serves as the vector store for fast retrieval.
 - **Groq API**: Powers the LLM for answer generation.
 
+---
+
 ## Flow of Execution
 
 1. **Startup**:
@@ -75,6 +85,8 @@ The Q&A Bot assists users by providing answers to network security-related quest
 
 4. **Response**:
    - The bot returns the answer along with the source document, if available.
+  
+---
 
 ## Commands to Run the Code
 
@@ -129,6 +141,7 @@ Run python app.py to start the web server.
 Open http://localhost:5000 in a browser.
 Enter a network security question and view the response in the chat window.
 
+---
 
 ## Features
 
