@@ -89,9 +89,9 @@ The Q&A Bot assists users by providing answers to network security-related quest
 2. **Run the Flask Application**:
      python app.py
 
-By default, the app runs on localhost:5000.
+     By default, the app runs on localhost:5000.
 
-4. **Testing the App**:
+3. **Testing the App**:
 Access the application by opening a browser and navigating to http://127.0.0.1:5000.
 
 ## Training Data and Data Formats
