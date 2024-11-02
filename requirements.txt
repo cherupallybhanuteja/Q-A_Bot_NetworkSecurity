@@ -1,0 +1,16 @@
+Flask==2.2.3                   # For creating the web server
+langchain==0.0.151             # For managing and retrieving document embeddings
+langchain_community             # LangChain community libraries, such as Chroma
+langchain_groq                  # Integration for Groq-powered LLM (Large Language Model)
+Chroma==0.3.0                   # Vector database for storing embeddings
+HuggingFaceEmbeddings           # For embedding models from Hugging Face
+sentence-transformers            # For embedding model (e.g., msmarco-distilbert-base-v4)
+PyPDF2                          # For handling PDF documents
+requests                        # For making HTTP requests to APIs
+jsonschema                      # For JSON validation
+transformers                    # Hugging Face transformer models, if needed for embedding
+torch                           # Required for transformer models with Hugging Face
+numpy                           # For numerical operations (used in embeddings)
+pandas                          # For data manipulation if needed for any preprocessing
+
+# Optional dependencies (if running on Windows, may need additional setup)
