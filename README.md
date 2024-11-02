@@ -79,13 +79,15 @@ The Q&A Bot assists users by providing answers to network security-related quest
 ## Commands to Run the Code
 
 1. **Initialize Git Repository and Push Changes**:
+   ```bash
    git init
    git remote add origin <repository-url>
    git add .
    git commit -m "Initial commit"
    git push -u origin main
-
+   
 2. **Run the Flask Application**:
+'''bash
 python app.py
 By default, the app runs on localhost:5000.
 
@@ -165,12 +167,8 @@ Performance Tuning: Index larger files separately to improve load times.
 8. **[What Product People Need To Know About LangChain | CommandBar Blog](https://commandbar.com/blog/langchain-guide-product-people)**: Overview of LangChain for product developers building AI applications.
 9. **[Host a Llama 2 API on GPU for Free | by Yuhong Sun | Medium](https://medium.com/@yuhongsun/host-llama-2-api-on-gpu-free/)**: Tutorial on hosting a free Llama 2 API with GPU support for resource-efficient applications.
 
-### GitHub Repositories
-10. **[GitHub - Chainlit/chainlit: Build Python LLM apps in minutes ⚡](https://github.com/Chainlit/chainlit)**: Repository for Chainlit, a tool for rapidly developing Python applications with LLMs.
-11. **[GitHub - Prographers/Slack-GPT: A Slack Bot implementation for integration with OpenAI ChatGPT](https://github.com/Prographers/Slack-GPT)**: Code for implementing a Slack bot that integrates with ChatGPT, supporting GPT-4 by default.
-12. **[GitHub - VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP](https://github.com/VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP)**: A simple script for integrating GPT into HTML/CSS with JavaScript and PHP, showcasing best practices and security tips.
 
 ### Other Relevant Resources
-13. **[How to Build a Personalized Unlimited Quiz App in Minutes: ChatGPT API Edition - DEV Community](https://dev.to/devguy/how-to-build-personalized-quiz-app-using-chatgpt-api)**: Guide on building a quiz app using ChatGPT API.
-14. **[How to Build a Multiple Choice Quiz with Chat GPT | by S713FF3N | Dev Genius](https://devgenius.io/how-to-build-a-multiple-choice-quiz-chat-gpt)**: Steps for building a multiple-choice quiz app leveraging ChatGPT's AI.
+10. **[How to Build a Personalized Unlimited Quiz App in Minutes: ChatGPT API Edition - DEV Community](https://dev.to/devguy/how-to-build-personalized-quiz-app-using-chatgpt-api)**: Guide on building a quiz app using ChatGPT API.
+11. **[How to Build a Multiple Choice Quiz with Chat GPT | by S713FF3N | Dev Genius](https://devgenius.io/how-to-build-a-multiple-choice-quiz-chat-gpt)**: Steps for building a multiple-choice quiz app leveraging ChatGPT's AI.
 
