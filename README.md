@@ -89,7 +89,7 @@ The Q&A Bot assists users by providing answers to network security-related quest
 2. **Run the Flask Application**:
 '''bash
 python app.py
-
+'''
 By default, the app runs on localhost:5000.
 
 4. **Testing the App**:
