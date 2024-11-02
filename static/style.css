@@ -1,0 +1,120 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 95%;  /* Adjust this value to reduce padding on left and right */
+    max-width: 1200px;  /* Maximum width to control container size */
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+header {
+    background-color: #3B82F6;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.message-area {
+    padding: 20px;
+    height: 60vh;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.message {
+    margin-bottom: 15px;
+    padding: 10px 15px;
+    border-radius: 15px;
+    max-width: 70%;
+    word-wrap: break-word;
+}
+
+.user-message {
+    background-color: #3B82F6;
+    color: white;
+    align-self: flex-start;
+}
+
+.bot-message {
+    background-color: #e4e4e4;
+    color: black;
+    align-self: flex-end;
+}
+
+.footer {
+    display: flex;
+    padding: 10px;
+    background-color: #f1f1f1;
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 1rem;
+}
+
+#send-button {
+    background-color: #3B82F6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+#send-button:hover {
+    background-color: #2563eb;
+}
+
+/* Existing styles */
+
+.time-message {
+    color: #555;
+    font-size: 0.9rem;
+    text-align: center;
+    margin: 5px 0;
+}
+/* Existing styles */
+
+/* Common message time style */
+.message-time {
+    font-size: 0.8rem;
+    text-align: right;
+    display: block;
+    margin-top: 5px;
+}
+
+/* White time color for user messages */
+.user-time {
+    color: #ffffff; /* White color for question timestamp */
+}
+
+/* Black time color for bot messages */
+.bot-time {
+    color: #000000; /* Black color for answer timestamp */
+}
+.source-text {
+    font-size: 0.8rem;
+    color: #4b5563;
+    margin-top: 5px;
+}
+
+
+
