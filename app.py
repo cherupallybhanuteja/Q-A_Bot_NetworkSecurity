@@ -17,8 +17,8 @@ os.environ["GROQ_API_KEY"] = "gsk_mpKD2OatuBGgCLYlaDy2WGdyb3FY3eHiDsdaBLpK8J7Pi1
 app = Flask(__name__)
 
 # Define directories for persistence and document storage
-PERSIST_DIRECTORY = r"C:\Users\cheru\OneDrive\Desktop\Q&A bot project NS\chroma_db"
-PDF_FOLDER_PATH = r"C:\Users\cheru\OneDrive\Desktop\Q&A bot project NS\pdfs"
+PERSIST_DIRECTORY = r"C:\Users\cheru\OneDrive\Desktop\group7_prototype\chroma_db"
+PDF_FOLDER_PATH = r"C:\Users\cheru\OneDrive\Desktop\group7_prototype\pdfs"
 
 # Function to check if retraining is needed
 def needs_retraining():
