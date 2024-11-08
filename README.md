@@ -4,7 +4,11 @@ This repository contains the Q&A Bot for Network Security, an AI-powered chatbot
 
 ---
 # Execution Demo
+<<<<<<< HEAD
 ![Execution Demo](./Execution Demo.gif)
+=======
+![Execution Demo](./Execution%20Demo.gif)
+>>>>>>> 124b40f (Added execution demo)
 
 ---
 
