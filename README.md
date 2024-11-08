@@ -235,7 +235,7 @@ Enter a network security question and view the response in the chat window.
 - **[Chroma Documentation](https://docs.trychroma.com/)**: Guide for configuring Chroma as a vector store for efficient similarity search.
 
 ### Tutorials and Guides
-1. **[How to Build Your Own AI Chatbot With ChatGPT API (2023) | Beebom](https://beebom.com/how-to-build-your-own-ai-chatbot-with-chatgpt-api/)**: Step-by-step guide for setting up a chatbot using ChatGPT API.
+1. **[How to Build Your Own AI Chatbot With ChatGPT API (2023) | Beebom]**: Step-by-step guide for setting up a chatbot using ChatGPT API.
 2. **[How to Build Your Own AI Chatbot With ChatGPT API: a Step-by-Step Ultimate Guide | Softermii](https://www.softermii.com/blog/build-your-own-ai-chatbot-ultimate-guide)**: In-depth guide on creating a chatbot with personalized responses using custom knowledge.
 3. **[Build a Chatbot Based on Your Own Documents with ChatGPT | Vasos Koupparis](https://vasos-koupparis.com/build-chatbot-chatgpt-documents/)**: Instructions for setting up a document-based chatbot, leveraging custom data.
 4. **[Create a Powerful Chatbot with ChatGPT Using Your Documents | Analytics Vidhya](https://www.analyticsvidhya.com/blog/2023/02/create-powerful-chatbot-using-your-documents/)**: A walkthrough on using ChatGPT and document embeddings for a personalized chatbot.
