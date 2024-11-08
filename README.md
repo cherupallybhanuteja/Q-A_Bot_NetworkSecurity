@@ -3,6 +3,7 @@
 This repository contains the Q&A Bot for Network Security, an AI-powered chatbot that allows users to ask questions on network security topics. The bot leverages documents stored in PDF format, vector embeddings, and the Groq API to generate responses. The project includes a web-based interface for users to interact with the bot.
 
 ---
+# Execution Demo
 ![Execution Demo](./Screen%20Recording%20-%20Nov%208,%202024-VEED.gif)
 
 ---
