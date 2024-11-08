@@ -235,18 +235,18 @@ Enter a network security question and view the response in the chat window.
 - **[Chroma Documentation](https://docs.trychroma.com/)**: Guide for configuring Chroma as a vector store for efficient similarity search.
 
 ### Tutorials and Guides
-1. **[How to Build Your Own AI Chatbot With ChatGPT API (2023) | Beebom](https://beebom.com/how-to-build-your-own-ai-chatbot-with-chatgpt-api/)**: Step-by-step guide for setting up a chatbot using ChatGPT API.
-2. **[How to Build Your Own AI Chatbot With ChatGPT API: a Step-by-Step Ultimate Guide | Softermii](https://www.softermii.com/blog/build-your-own-ai-chatbot-ultimate-guide)**: In-depth guide on creating a chatbot with personalized responses using custom knowledge.
-3. **[Build a Chatbot Based on Your Own Documents with ChatGPT | Vasos Koupparis](https://vasos-koupparis.com/build-chatbot-chatgpt-documents/)**: Instructions for setting up a document-based chatbot, leveraging custom data.
-4. **[Create a Powerful Chatbot with ChatGPT Using Your Documents | Analytics Vidhya](https://www.analyticsvidhya.com/blog/2023/02/create-powerful-chatbot-using-your-documents/)**: A walkthrough on using ChatGPT and document embeddings for a personalized chatbot.
-5. **[How to Train an AI Chatbot With Custom Knowledge Base Using ChatGPT API | Beebom](https://beebom.com/how-to-train-ai-chatbot-custom-knowledge-base/)**: Techniques for training a chatbot with specific knowledge and deploying with ChatGPT API.
-6. **[Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit Chat App | Microsoft Community Hub](https://techcommunity.microsoft.com/t5/apps/create-azure-openai-langchain-chromadb-and-chainlit-chat-app/ba-p/3822022)**: Guide for integrating LangChain and ChromaDB in Azure for a scalable AI chatbot.
-7. **[How to create a private ChatGPT that interacts with your local documents - TechTalks](https://bdtechtalks.com/2023/03/14/private-chatgpt-local-documents/)**: Steps for setting up a local document-interactive ChatGPT.
-8. **[What Product People Need To Know About LangChain | CommandBar Blog](https://commandbar.com/blog/langchain-guide-product-people)**: Overview of LangChain for product developers building AI applications.
-9. **[Host a Llama 2 API on GPU for Free | by Yuhong Sun | Medium](https://medium.com/@yuhongsun/host-llama-2-api-on-gpu-free/)**: Tutorial on hosting a free Llama 2 API with GPU support for resource-efficient applications.
+1. **[How to Build Your Own AI Chatbot With ChatGPT API (2023) | Beebom]**: Step-by-step guide for setting up a chatbot using ChatGPT API.
+2. **[How to Build Your Own AI Chatbot With ChatGPT API: a Step-by-Step Ultimate Guide | Softermii]**: In-depth guide on creating a chatbot with personalized responses using custom knowledge.
+3. **[Build a Chatbot Based on Your Own Documents with ChatGPT | Vasos Koupparis]**: Instructions for setting up a document-based chatbot, leveraging custom data.
+4. **[Create a Powerful Chatbot with ChatGPT Using Your Documents | Analytics Vidhya]**: A walkthrough on using ChatGPT and document embeddings for a personalized chatbot.
+5. **[How to Train an AI Chatbot With Custom Knowledge Base Using ChatGPT API | Beebom]**: Techniques for training a chatbot with specific knowledge and deploying with ChatGPT API.
+6. **[Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit Chat App | Microsoft Community Hub]**: Guide for integrating LangChain and ChromaDB in Azure for a scalable AI chatbot.
+7. **[How to create a private ChatGPT that interacts with your local documents - TechTalks]**: Steps for setting up a local document-interactive ChatGPT.
+8. **[What Product People Need To Know About LangChain | CommandBar Blog]**: Overview of LangChain for product developers building AI applications.
+9. **[Host a Llama 2 API on GPU for Free | by Yuhong Sun | Medium]**: Tutorial on hosting a free Llama 2 API with GPU support for resource-efficient applications.
 
 
 ### Other Relevant Resources
-10. **[How to Build a Personalized Unlimited Quiz App in Minutes: ChatGPT API Edition - DEV Community](https://dev.to/devguy/how-to-build-personalized-quiz-app-using-chatgpt-api)**: Guide on building a quiz app using ChatGPT API.
-11. **[How to Build a Multiple Choice Quiz with Chat GPT | by S713FF3N | Dev Genius](https://devgenius.io/how-to-build-a-multiple-choice-quiz-chat-gpt)**: Steps for building a multiple-choice quiz app leveraging ChatGPT's AI.
+10. **[How to Build a Personalized Unlimited Quiz App in Minutes: ChatGPT API Edition - DEV Community]**: Guide on building a quiz app using ChatGPT API.
+11. **[How to Build a Multiple Choice Quiz with Chat GPT | by S713FF3N | Dev Genius]**: Steps for building a multiple-choice quiz app leveraging ChatGPT's AI.
 
